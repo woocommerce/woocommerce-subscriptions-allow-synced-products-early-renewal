@@ -10,7 +10,7 @@
  * Requires at least: 4.0
  * Tested up to: 4.9
  *
- * GitHub Plugin URI: Prospress/{plugin_slug}
+ * GitHub Plugin URI: Prospress/wcs-allow-synced-products-early-renewal
  * GitHub Branch: master
  *
  * Copyright 2018 Prospress, Inc.  (email : freedoms@prospress.com)
