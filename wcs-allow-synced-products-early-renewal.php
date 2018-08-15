@@ -1,5 +1,5 @@
 <?php
-/*
+/**
  * Plugin Name: WCS Allow Synchronized Products to Renew Early
  * Plugin URI: https://github.com/Prospress/wcs-allow-synced-products-early-renewal
  * Description: Extension for WooCommerce Subscriptions. Allow subscriptions that contain synchronized products to be renewed early.
